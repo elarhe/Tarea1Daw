@@ -1,0 +1,27 @@
+{
+  "name": "0_repaso",
+  "version": "1.0.0",
+  "description": "prueba en clase 2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elarhe/Tarea1Daw.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/elarhe/Tarea1Daw/issues"
+  },
+  "homepage": "https://github.com/elarhe/Tarea1Daw#readme",
+  "dependencies": {
+    "boostrap": "^2.0.0",
+    "bootstrap": "^5.3.8",
+    "vite": "^7.1.7"
+  },
+  "devDependencies": {
+    "sass-embedded": "^1.93.2"
+  }
+}
